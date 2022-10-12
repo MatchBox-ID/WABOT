@@ -24,7 +24,7 @@
 
   // Other
   global.ownername = 'Matchbox-MD' // Ganti Jadi Namamu
-  global.owner = ['6285868055463','6285936528795','6281392189144'] // Kalo Mau Lebih Tambahin Aja
+  global.owner = ['6285868055463'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6285868055463' // Owner Utama Istilahnya
   global.botname = 'Matchbox-MD' // Ganti Jadi Nama Botmu
   global.packname = 'Matchbox-MD' // Sticker Weem
